@@ -1,7 +1,7 @@
 # AmazonScraper
 Amazon India Web Page Reviews Scraper
 
-##Requirements
+## Requirements
   - pip install BeautifulSoup
   - wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb 
   - apt install ./google-chrome-stable_current_amd64.deb
